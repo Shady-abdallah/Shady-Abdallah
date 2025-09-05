@@ -12,7 +12,7 @@
 | Data Visualization   | Power BI, Tableau, Excel Dashboards                |
 | Data Analysis        | SQL, Python, Advanced Excel, Google Sheets         |
 | Statistics & ML      | Regression, Hypothesis Testing, Predictive Modeling |
-| Language Skills      | Arabic (Native), English (Intermediate)            |
+
 
 
 ---
