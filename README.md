@@ -33,11 +33,13 @@
 
 ---
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/shady-abdallah-658425297)  
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/shady-abdallah)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green)](https://wa.me/+201227273603)  
-📧 **Email**: Shadyabdallah05@gmail.com  
+##  Connect with Me
+| Platform         | Link                                                                        |
+|------------------|------------------------------------------------------------------------------|
+| **Email**        | [Shadyabdallah05@gmail.com](mailto:Shadyabdallah05@gmail.com)               |
+| **LinkedIn**     | [My Profile](https://www.linkedin.com/in/shady-abdallah-658425297)          |
+| **GitHub Profile** | [shady-abdallah](https://github.com/Shady-abdallah)                      |
+| **WhatsApp**     | [Send a message](https://wa.me/+201227273603)                               |
 
 ---
 
