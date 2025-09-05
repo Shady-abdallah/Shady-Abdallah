@@ -14,7 +14,7 @@
 ---
 
 ## 📂 Featured Projects
-- [📊 Sales Data Analysis For Super Store](https://github.com/shady-abdallah/sales-analysis) – Excel dashboard for sales insights  
+- [📊 Sales Data Analysis For Super Store](Super store task (Final Project).xlsb.xlsx) – Excel dashboard for sales insights  
 
 ---
 
