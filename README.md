@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Shady Abdallah 👋  
 
-<!--
-**Shady-abdallah/Shady-Abdallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Data Analyst** passionate about turning raw data into clear, actionable insights.  
+🎯 Skilled in **SQL, Python, Power BI, Excel Dashboards, Data Cleaning**.  
+📊 Experienced in building custom dashboards, analyzing KPIs, uncovering patterns, and supporting data-driven strategies.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- **Data Visualization**: Power BI, Tableau, Excel Dashboards  
+- **Data Analysis**: SQL, Python, Advanced Excel, Google Sheets  
+- **Statistics & ML**: Regression, Hypothesis Testing
+
+---
+
+## 📂 Featured Projects
+- [📊 Sales Data Analysis For Super Store](https://github.com/shady-abdallah/sales-analysis) – Excel dashboard for sales insights  
+
+---
+
+## 🌍 Languages
+- Arabic: Native  
+- English: Intermediate  
+
+---
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/shady-abdallah-658425297)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/shady-abdallah)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green)](https://wa.me/+201227273603)  
+📧 **Email**: Shadyabdallah05@gmail.com  
+
+---
+
+✨ *“Every dataset has a story — my mission is to help you read it and use it for success.”*
