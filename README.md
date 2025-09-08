@@ -37,7 +37,7 @@
 | Platform         | Link                                                                        |
 |------------------|------------------------------------------------------------------------------|
 | **Email**        | [Shadyabdallah05@gmail.com](mailto:Shadyabdallah05@gmail.com)               |
-| **LinkedIn**     | [My Profile](https://www.linkedin.com/in/shady-abdallah-658425297)          |
+| **LinkedIn**     | [My Profile](https://www.linkedin.com/in/shady-abdallah05)          |
 | **GitHub Profile** | [shady-abdallah](https://github.com/Shady-abdallah)                      |
 | **WhatsApp**     | [Send a message](https://wa.me/+201227273603)                               |
 
